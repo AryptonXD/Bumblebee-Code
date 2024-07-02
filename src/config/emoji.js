@@ -1,0 +1,72 @@
+module.exports = {
+  id: {
+    antinuke: "",
+    automod: "",
+    moderation: "",
+    customroles: "",
+    voiceroles: "",
+    ignore: "",
+    media: "",
+    games: "",
+    welcome: "",
+    utility: "",
+    nightmode: "",
+    autoresponder: "",
+    slash: ""
+  },
+  badges: {
+    owner: "",
+    dev: "",
+    admin: "",
+    staff: "",
+    partner: "",
+    supporter: "",
+    sponsor: "",
+    os: "",
+    vip: "",
+    friend: "",
+    bug: ""
+  },
+  util: {
+    enabled: "",
+    disabled: "",
+    enabler: "",
+    disabler: "",
+    arrow: "",
+    tick: "",
+    cross: "",
+    loading: ""
+  },
+  flag: {
+    nitro: "",
+    booster: "",
+    hypesquad: "",
+    hype1: "",
+    hype2: "",
+    hype3: "",
+    bug1: "",
+    bug2: "",
+    verifieddev: "",
+    partner: "",
+    activedev: "",
+    verifiedbot: "",
+    staff: ""
+  },
+  voicemaster: {
+    lock: "",
+    unlock: "",
+    hide: "",
+    unhide: "",
+    rename: "",
+    mute: "",
+    unmute: "",
+    deafen: "",
+    undeafen: "",
+    kick: "",
+    limit: "",
+    claim: "",
+    transfer: "",
+    info: "",
+    delete: ""
+  }
+};
