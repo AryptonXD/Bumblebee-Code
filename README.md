@@ -24,7 +24,7 @@ Bumblebee is a versatile and powerful Discord bot designed to enhance your serve
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AryptonXD/bumblebee.git
+    git clone https://github.com/AryptonXD/Bumblebee-Code.git
     cd bumblebee
     ```
 
